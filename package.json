@@ -1,6 +1,6 @@
 {
   "name": "successful",
-  "version": "1.2.1",
+  "version": "1.2.4",
   "description": "Succesful test completion",
   "main": "success.js",
   "scripts": {
@@ -21,7 +21,5 @@
     "url": "https://github.com/CSLTech/successful/issues"
   },
   "homepage": "https://github.com/CSLTech/successful#readme",
-  "bin": {
-    "sucessful": "./success.js"
-  }
+  "bin": "bin/successful.js"
 }
