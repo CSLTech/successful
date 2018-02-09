@@ -1,2 +1,7 @@
 #! /usr/bin/env node
-require("../success.js");
+if (process.argv.indexOf("--colors") === -1) {
+    require("../success.js");
+}
+else {
+    require("../success-colors.js");
+}

@@ -1,6 +1,6 @@
 {
   "name": "successful",
-  "version": "1.2.4",
+  "version": "1.3.1",
   "description": "Succesful test completion",
   "main": "success.js",
   "scripts": {
